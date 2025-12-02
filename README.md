@@ -27,8 +27,8 @@ A frontend developer from Kazakhstan
 ---
 
 ### 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=azamxvit&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azamxvit&layout=compact&theme=radical)
+![Stats](https://github-readme-stats-git-masterrk.vercel.app/api?username=azamxvit&show_icons=true&theme=radical&v=1)
+![Top Langs](https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=azamxvit&layout=compact&theme=radical&v=1)
 
 <!--
 **azamxvit/azamxvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
