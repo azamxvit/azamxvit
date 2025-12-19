@@ -19,6 +19,7 @@ A frontend developer from Kazakhstan
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=fff&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
@@ -27,8 +28,8 @@ A frontend developer from Kazakhstan
 ---
 
 ### 📊 GitHub Stats:
-![Stats](https://github-readme-stats-git-masterrk.vercel.app/api?username=azamxvit&show_icons=true&theme=radical&v=1)
-![Top Langs](https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=azamxvit&layout=compact&theme=radical&v=1)
+![Stats](https://github-readme-stats.vercel.app/api?username=azamxvit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azamxvit&layout=compact&theme=radical)
 
 <!--
 **azamxvit/azamxvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
