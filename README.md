@@ -4,7 +4,7 @@ Code artist crafting seamless, fast, and beautiful apps for the modern world. �
 
 - 🔭 I’m currently working on [my projects](https://github.com/azamxvit)  
 - 🌱 I’m currently learning **React**  
-- 📫 How to reach me: **omirtajazamat@gmail.com**  
+- 📫 How to reach me: **omirtayazamatt@gmail.com**  
 
 ---
 
