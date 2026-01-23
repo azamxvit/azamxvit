@@ -10,7 +10,7 @@ Code artist crafting seamless, fast, and beautiful apps for the modern world. ü
 
 ### üåê Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](http://linkedin.com/in/azamat-omirtai-764651339)  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/beyonndd)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/stryxnn)
 
 ---
 
