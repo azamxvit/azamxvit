@@ -82,6 +82,8 @@ Code artist crafting seamless, fast, and beautiful apps for the modern world. ğŸ
 <p align="left">
 <a href="http://linkedin.com/in/azamat-omirtai"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
 <a href="https://t.me/stryxnn"><img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge"></a>
+<a href="https://omirtayazamatt.medium.com/"><img src="https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white&style=for-the-badge"></a>
+<a href="https://patreon.com/azamxvit"><img src="https://img.shields.io/badge/-Patreon-FF424D?logo=patreon&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
